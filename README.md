@@ -10,6 +10,6 @@ Although the information could be exploited for anomaly detection, it’s consid
 
 ### Research Method
 The source of data will be AIS, which represents unique information about each moving vessel that is transmitted every minute. 
-Past data is available for U.S. coastal waters for calendar years 2009 through September 20212. 
+Past data is available for U.S. coastal waters for calendar years 2009 through September 2021. 
 In specific, a total of 10 classes will be retained (e.g. cargo, tanker, towing, fishing, ...) to construct an informative probability vector. 
 Moreover, as AIS data depicts a time-series, an LSTM architecture will be utilized for the target and shadow models to conduct research within membership inference.
