@@ -1,7 +1,7 @@
 # Membership-Inference
 
 ### Background
-The maritime transport is a complex system which is constantly in change1. 
+The maritime transport is a complex system which is constantly in change. 
 Based on tracking mechanisms, a ship’s position and velocity could be identified to map the movements within waterways. 
 With the help of this information, a classification task could be developed to determine the vessel type according to it’s characteristics and followed trajectory.
 This provides a useful model to expose vessels that are performing illegal activities. 
